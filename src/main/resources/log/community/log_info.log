@@ -1,0 +1,5 @@
+2022-03-05 19:37:52,584 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 1.8.0_231 on challenger with PID 1256 (started by laida in W:\ToWork\Pro\community)
+2022-03-05 19:37:52,589 INFO [main] c.n.c.LoggerTests [SpringApplication.java:672] No active profile set, falling back to default profiles: default
+2022-03-05 19:37:57,342 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:53] Adding welcome page: class path resource [templates/index.html]
+2022-03-05 19:37:58,630 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 6.744 seconds (JVM running for 8.878)
+2022-03-05 19:37:59,416 INFO [main] c.n.c.LoggerTests [LoggerTests.java:23] info log

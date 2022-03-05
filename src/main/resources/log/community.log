@@ -1,0 +1,9 @@
+2022-03-05 19:06:47.442  INFO 14640 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_231 on challenger with PID 14640 (started by laida in W:\ToWork\Pro\community)
+2022-03-05 19:06:47.445 DEBUG 14640 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-03-05 19:06:47.445  INFO 14640 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2022-03-05 19:06:51.786  INFO 14640 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [templates/index.html]
+2022-03-05 19:06:53.196  INFO 14640 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 6.512 seconds (JVM running for 8.952)
+2022-03-05 19:06:53.800 DEBUG 14640 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2022-03-05 19:06:53.801  INFO 14640 --- [main] com.nowcoder.community.LoggerTests       : info log
+2022-03-05 19:06:53.801  WARN 14640 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2022-03-05 19:06:53.802 ERROR 14640 --- [main] com.nowcoder.community.LoggerTests       : error log
